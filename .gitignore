@@ -5,3 +5,8 @@
 22_SL_Capstone/datasets/drive_stats/2018/data_Q1_2018.zip
 22_SL_Capstone/df_ints.csv
 23_Unsupervised_Learning/beginner_datasets/pycaret_datasets.xlsx
+Final_Project/datasets/drive_stats/test/hard-drive-failure_test_test-000000000002.csv
+Final_Project/datasets/drive_stats/test/hard-drive-failure_test_test-000000000000.csv
+Final_Project/datasets/drive_stats/test/hard-drive-failure_test_test-000000000001.csv
+*.dat
+*.csv
