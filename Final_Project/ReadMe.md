@@ -149,9 +149,7 @@ The testing procedure involves finding the number of unexpected breaks and false
 ## Results
 ---
 
-Summary of results can be found in an accompanying blog post. If you'd like to better understand
-the models and explore individual predictions, then feel free to play around with the
-`Model_Interpretability.ipynb` notebook.
+If you'd like to better understand the models and explore individual predictions, then feel free to play around with the `Model_Interpretability.ipynb` notebook.
 
 
 ## Next Steps
@@ -160,7 +158,6 @@ This was the first phase of a predictive maintenance project and mostly involved
  - Modelling
      - **Hyperparameter tuning** : No hyperparameter tuning was performed
      - **Feature engineering** : We did some minimal engineering of time series features. This is a potential avenue for further exploration.
-     - **Look at different ML models** : Here we only used XGBoost
  - Data
      - **More sophisticated sampling** : Here we only used a 50-50 class split, simplifying the problem but also leading to us throwing away the majority of the data. We could also just try to use all of the data
      - **Deal with different manufacturer models** : Only looked at one manufacturer model
