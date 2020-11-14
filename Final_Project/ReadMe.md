@@ -22,24 +22,7 @@ This project was primarily build with the following tools:
  - AI Platform Notebooks
  - BigQuery
  - Python (sklearn, pandas)
- - XGBoost    
-
-
-## Getting Started
----
-
-The easiest and fastest way to get started is to create a new python AI platform notebook instance. Once the instance is created and jupyterlab is launched, open a new terminal in jupyterlab and perform the following steps:
-
- 1. Clone the repo:
-```bash
-git clone git@github.com:teamdatatonic/predictive-maintenance-demo.git
-```
- 2. Install XGBoost and SHAP (only packages to install if using AI platform notebooks)
-```bash
-pip install --user xgboost==0.90
-pip install --user shap
-```
-
+ - XGBoost
 
 
 ## Data
