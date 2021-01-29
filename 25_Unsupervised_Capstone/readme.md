@@ -1,7 +1,7 @@
 # Project Summary
 
 ## Purpose
-Taking data from the Lending Club, a US peer-to-peer lending company, and using unsupervised Clustering Techniques, we grouped users of similar habits together to assess their risk level.
+Taking data from the [Lending Club](https://www.lendingclub.com/), a US peer-to-peer lending company, and using unsupervised Clustering Techniques, we grouped users of similar habits together to assess their risk level.
 
 ## Results
 The following is a 3D visual representation of the users clustered and some of the groups we identified.
@@ -36,3 +36,23 @@ This cluster of 5 users has the highest DTI (Debt-to-Income) ratio, unsurprising
 This cluster gets higher-than average loans, pays off the principle quickly with a lump sum on final payment.
 
 ![cluster_12]
+
+# Tech
+
+- <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png width="15" height="15" /> — **Python**
+
+- <img src=https://pandas.pydata.org/static/img/pandas_mark.svg width="15" height="15" /> — **Pandas**
+
+- <img src=https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png width="27" height="15" /> — **Scikit-learn**
+
+- <img src=https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg width="15" height="20" /> — **Jupyter**
+
+## Techniques
+
+- [**FastCluster**](http://www.danifold.net/fastcluster.html)
+
+- [**HDBScan**](https://hdbscan.readthedocs.io/en/latest/index.html)
+
+- [**PCA**](https://www.shark-ml.org/sphinx_pages/build/html/rest_sources/tutorials/algorithms/pca.html)
+
+- [**UMAP**](https://umap-learn.readthedocs.io/en/latest/#)
