@@ -6,10 +6,10 @@ Taking data from the [Lending Club](https://www.lendingclub.com/), a US peer-to-
 ## Results
 The following is a 3D visual representation of the users clustered and some of the groups we identified.
 
-[cluster_umap]: /images/DimensionalityReductionWithUMAP_01.png "Dimensionality Reduction with UMAP"
-[cluster_tsne]: /images/DimensionalityReductionWithTSNE_01.png "Dimensionality Reduction with TSNE"
-[cluster_pca]: /images/DimensionalityReductionWithPCA_01.png "Dimensionaltiy Reduction with PCA"
-[cluster_color]: /images/HDBScan_with_TSNE.png "Clustering visualization with TSNE"
+[cluster_umap]: ./images/DimensionalityReductionWithUMAP_01.png "Dimensionality Reduction with UMAP"
+[cluster_tsne]: ./images/DimensionalityReductionWithTSNE_01.png "Dimensionality Reduction with TSNE"
+[cluster_pca]: ./images/DimensionalityReductionWithPCA_01.png "Dimensionaltiy Reduction with PCA"
+[cluster_color]: ./images/HDBScan_with_TSNE.png "Clustering visualization with TSNE"
 
 [cluster_01]: ./images/cluster_01.png "Cluster 01"
 [cluster_11]: ./images/cluster_11.png "Cluster 11"
