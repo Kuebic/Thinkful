@@ -11,9 +11,9 @@ The following is a 3D visual representation of the users clustered and some of t
 [cluster_pca]: /images/DimensionalityReductionWithPCA_01.png "Dimensionaltiy Reduction with PCA"
 [cluster_color]: /images/HDBScan_with_TSNE.png "Clustering visualization with TSNE"
 
-[cluster_01]: /images/cluster_01.png "Cluster 01"
-[cluster_11]: /images/cluster_11.png "Cluster 11"
-[cluster_12]: /images/cluster_12.png "Cluster 12"
+[cluster_01]: ./images/cluster_01.png "Cluster 01"
+[cluster_11]: ./images/cluster_11.png "Cluster 11"
+[cluster_12]: ./images/cluster_12.png "Cluster 12"
 
 ![cluster_color]
 
