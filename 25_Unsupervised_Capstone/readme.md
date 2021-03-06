@@ -1,6 +1,8 @@
 # Important Links
 
-Github not loading my notebook? Open it in [nbviewer](https://nbviewer.jupyter.org/github/Kuebic/Thinkful/blob/master/25_Unsupervised_Capstone/Unsupervised_Capstone.ipynb).
+Main File: [Unsupervised_Capstone.ipynb](../25_Unsupervised_Capstone/Unsupervised_Capstone.ipynb)
+
+Github sometimes won't load my file due to size. Open it in [nbviewer](https://nbviewer.jupyter.org/github/Kuebic/Thinkful/blob/master/25_Unsupervised_Capstone/Unsupervised_Capstone.ipynb).
 
 # Project Summary
 
