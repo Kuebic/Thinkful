@@ -4,12 +4,12 @@
 
 
 
-## Thinkful Graders
-Main files of interest (feel free to check out the others though)
-- **Exploratory:** Exploratory_Visualizations.ipynb
-- **Model Training:** Train_and_Eval.ipynb
-- **Understanding the Models:** Model_Interpretability.ipynb
-- **Testing: Test on 2019 data:** testing.ipynb
+## Important Files
+Main files of interest:
+- **Exploratory:** [Exploratory_Visualizations.ipynb](../blob/master/Final_Project/Train_and_Eval.ipynb)
+- **Model Training:** [Train_and_Eval.ipynb](../blob/master/Train_and_Eval.ipynb)
+- **Understanding the Models:** [Model_Interpretability.ipynb](../blob/master/Model_Interpretability.ipynb)
+- **Testing: Test on 2019 data:** [testing.ipynb](../blob/master/testing.ipynb)
 
 This folder contains code for a predictive maintenance use case concerning a [dataset](https://www.backblaze.com/b2/hard-drive-test-data.html) from BackBlaze. The goal is to predict hard drive failure.  
 
