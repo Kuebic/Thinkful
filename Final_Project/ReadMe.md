@@ -6,10 +6,11 @@
 
 ## Important Files
 Main files of interest:
-- **Exploratory:** [Exploratory_Visualizations.ipynb](../Final_Project/Train_and_Eval.ipynb)
-- **Model Training:** [Train_and_Eval.ipynb](../Final_Project/Train_and_Eval.ipynb)
-- **Understanding the Models:** [Model_Interpretability.ipynb](../Final_Project/Model_Interpretability.ipynb)
-- **Testing: Test on 2019 data:** [testing.ipynb](../Final_Project/testing.ipynb)
+### Links to NBViewer as github sometimes won't show large notebooks
+- **Exploratory:** [Exploratory_Visualizations.ipynb](https://nbviewer.jupyter.org/github/Kuebic/Thinkful/blob/master/Final_Project/Exploratory_Visualizations.ipynb)
+- **Model Training:** [Train_and_Eval.ipynb](https://nbviewer.jupyter.org/github/Kuebic/Thinkful/blob/master/Final_Project/Train_and_Eval.ipynb)
+- **Understanding the Models:** [Model_Interpretability.ipynb](https://nbviewer.jupyter.org/github/Kuebic/Thinkful/blob/master/Model_Interpretability.ipynb)
+- **Testing: Test on 2019 data:** [testing.ipynb](https://nbviewer.jupyter.org/github/Kuebic/Thinkful/blob/master/Final_Project/testing.ipynb)
 
 This folder contains code for a predictive maintenance use case concerning a [dataset](https://www.backblaze.com/b2/hard-drive-test-data.html) from BackBlaze. The goal is to predict hard drive failure.  
 
